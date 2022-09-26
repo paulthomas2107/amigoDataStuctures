@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78af9c6d-70aa-45ca-8be1-f6cdb3107ecc" name="Changes" comment="More...">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/amigoscode/LinkedListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/StackExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amigoscode/StackExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/amigoscode/QueuesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/amigoscode/QueuesDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664212299600</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="More...">
+      <created>1664213566610</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664213566610</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
