@@ -21,6 +21,18 @@ public class ListAndArrayLists {
             log.info(color.toString());
         }
 
+        colors.forEach(color -> {
+            log.info(color.toString());
+        });
+
+        List<String> list2 = List.of(
+                "red",
+                "pink",
+                "black"
+        );
+
+        list2.add("Wont br allowed as list2 is immutable");
+        list2.forEach(log::info);
 
     }
 }
